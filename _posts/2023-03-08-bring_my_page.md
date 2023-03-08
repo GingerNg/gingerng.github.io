@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Bring My Own Page"
@@ -8,4 +7,6 @@ comments: true
 author: GingerNg
 ---
 
-Bring my own page successfully!
+This is a new start!
+
+I bring my own page successfully!
