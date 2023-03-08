@@ -10,3 +10,5 @@ author: GingerNg
 This is a new start!
 
 I bring my own page successfully!
+
+Thanks to lemonchann[https://lemonchann.github.io/blog/create_blog_with_github_pages/]
