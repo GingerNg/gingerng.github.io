@@ -21,9 +21,9 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: HOME
-    url: /
-  - name: ABOUT
     url: /about
+  - name: POST
+    url: /
   - name: ARCHIVE
     url: /archive
   - name: TAGS
