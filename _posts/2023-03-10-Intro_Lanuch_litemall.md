@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intro of litemall and Lanuch"
-date:   2023-03-08
+date:   2023-03-11
 tags: [litemall]
 comments: true
 author: GingerNg
