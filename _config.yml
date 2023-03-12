@@ -22,7 +22,7 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 navigation:
   - name: HOME
     url: /about
-  - name: POST
+  - name: POSTS
     url: /
   - name: ARCHIVE
     url: /archive

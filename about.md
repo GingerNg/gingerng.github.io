@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
+## About Me
 
 Thanks for visiting my site. Here, I will share posts about tech, thinking and my life.
 
@@ -12,3 +12,4 @@ Currently, I am an engineer fouced on NLP. I received my BME(BioMedical Engineer
 
 ## Interesting Reads
 - [简约和自洽：自然智能对AI的灵魂拷问](https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=8108133356&source=h5pre)
+- [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
