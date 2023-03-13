@@ -61,12 +61,12 @@ footer-text: Copyright (c) 2023 GingerNg
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
-# Gitalk
-# gitalk:
-#   clientID: bd65d5c0df878155b7fa
-#   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-#   repo: gingerng.github.io
-#   owner: gingerng
+Gitalk
+gitalk:
+  clientID: 445f94092cd38b7ca705
+  clientSecret: dfe0e7c2fdfe2ba6b5ec80ad31f4d125832a57f5
+  repo: gingerng.github.io
+  owner: gingerng
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics:

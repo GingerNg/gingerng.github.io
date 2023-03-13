@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thoughts_on_ChatGPT"
+title: "Thoughts on ChatGPT"
 date:   2023-03-12
 tags: [Thoughts]
 comments: true
@@ -27,7 +27,7 @@ In my opinion, ChatGPT is a "iphone-level" innovation, will change the human-com
 
 
 ##### Possible Opportunities
-OpenAI hava provided API of gpt3.5 which is quite easy-to-use. Obviously, ChatGPT will bring a large amount of bussiness opportunities. For example chatgt combined with wishper, language teachers maybe disappear.
+OpenAI has provided API of gpt3.5 which is quite easy-to-use. Obviously, ChatGPT will bring a large amount of bussiness opportunities. For example chatgt combined with wishper, language teachers maybe disappear.
 - LLM
 LLM itself is a big opportunity. Not every person or organization is allowed to use ChatGPT. The technical thresholad of traning and tuning LLM is quite high. Some pioneers have involved in this fields.
 
