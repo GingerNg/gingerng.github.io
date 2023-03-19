@@ -9,7 +9,7 @@ author: GingerNg
 
 LLMs have been applied in many fields such as chatbot, information extraction[1] and so on.
 
-Last week, some discusions[https://gingerng.github.io/Thoughts_on_chatgpt/] have been posted. This post will list some works which apply LLMs as generator of corpus.
+Last week, some [thoughts](https://gingerng.github.io/Thoughts_on_chatgpt/) on [ChatGPT](https://openai.com/blog/chatgpt) have been posted. This post will list some works which apply LLMs as generator of corpus.
 
 
 ##### ChatAug
