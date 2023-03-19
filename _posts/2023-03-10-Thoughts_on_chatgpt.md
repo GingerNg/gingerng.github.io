@@ -21,7 +21,7 @@ Actually, ChatGPT is **interface** of a well pretrained and fine-tuned LLM(Large
 
 - "东腔西调"podcast[2]
 ![](https://s2.loli.net/2023/03/12/hbYomLQln3XV19H.png)
-"ChatGPT is just caculating probablities, and it doesn't have the ability of  **understanding** like human", Zhan Shi a professor of Shanghai Foreign Studies University(SISU) appraised ChatGPT. Before Understanding, the must be a entity who can understand. He quoted "I think, therefore I am (我思故我在)". The two "I" are different subjects, the "watched I" and the "watching "I". The model can't imitate the "watching I". He also quoted Plato's learng theroy. The known we don't need to learn, and the totally unknown we can't learn, We are learning "We know what we don't know"(我们在学习“我们知道我们不知道的东西). We know what we don't know" is a kind of inborn ability while ChatGPT doesn't have
+"ChatGPT is just caculating probablities, and it doesn't have the ability of  **understanding** like human", Zhan Shi a professor of Shanghai Foreign Studies University(SISU) appraised ChatGPT. Before Understanding, the must be a entity who can understand. He quoted "I think, therefore I am (我思故我在)". The two "I" are different subjects, the "watched I" and the "watching I". The model can't imitate the "watching I". He also quoted Plato's learng theroy. The known we don't need to learn, and the totally unknown we can't learn, We are learning "We know what we don't know"(我们在学习“我们知道我们不知道的东西). We know what we don't know" is a kind of inborn ability while ChatGPT doesn't have
 
 In my opinion, ChatGPT is a "iphone-level" innovation, will change the human-computer interaction(HCI) mode. Also the problem of information explosion can be alleviated. And with the development of LLM, everyone will have his own individual assisant just like a mobile phone. Futhermore, as the acquistion of information become more efficient, it will have a profound impact on society. For example , the teaching profession will be affected. The podcaster[2] says University teachers will also undergo a major differentiation screening and elimination.
 
@@ -42,7 +42,7 @@ The [**new bing**](https://www.bing.com/new) is a standard product.
 
 ##### Future of ChatGPT
 - Multi-modal
-Microsoft has proposed its Multimodal LLM(MLLM) named as **KOSMOS-1**
+Microsoft has proposed its Multimodal LLM(MLLM) named as **KOSMOS-1**[3]
 ![](https://s2.loli.net/2023/03/12/4ZhrDU7Nub5M8ac.png)
 - More paramaters
 - More and Better data
