@@ -9,7 +9,7 @@ author: GingerNg
 
 LLMs have been applied in many fields such as chatbot, information extraction[1] and so on.
 
-Here, this post list some works which directly apply LLMs as generator of corpus.
+Last week, some discusions[https://gingerng.github.io/Thoughts_on_chatgpt/] have been posted. This post will list some works which apply LLMs as generator of corpus.
 
 
 ##### ChatAug
@@ -27,7 +27,7 @@ Here, this post list some works which directly apply LLMs as generator of corpus
 Although [ChatGPT](https://openai.com/blog/chatgpt) can be applied for almost every nlp task, many researchers have found that [ChatGPT](https://openai.com/blog/chatgpt) can't beat the SOTA model of specific task like translation. However, LLMs can push the improvement of specific tasks.
 
 ##### references
-[1] Zero-Shot Information Extraction via Chatting with ChatGPT
-[2] ChatAug: Leveraging ChatGPT for Text Data Augmentation--2023
-[3] SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions--2022
-[4] [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [1] Zero-Shot Information Extraction via Chatting with ChatGPT
+- [2] ChatAug: Leveraging ChatGPT for Text Data Augmentation--2023
+- [3] SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions--2022
+- [4] [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
