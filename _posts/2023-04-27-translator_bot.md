@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "translator bot"
-date:   2023-04-24
+date:   2023-04-28
 tags: [Tech, English]
 comments: true
 author: GingerNg
