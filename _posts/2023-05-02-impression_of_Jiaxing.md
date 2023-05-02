@@ -40,7 +40,7 @@ I took some photos when running.
 South Lake maybe the most famous attraction of Jiaxing. The 1st National Congress of the CCP(Chinese Communist Party) was transferred from Shanghai to Jiaxing in 1921 and the final agenda was carried out in a boat on South Lake, which concluded with the establishment of the party.
 We planed to take a boat tour on South Lake. But it is too crowded to enter the attraction, we dropped the plan.
 ![](https://s2.loli.net/2023/05/02/e5lanhKXtWuGpEL.png)
-
+After that, we came back home.
 ### Impression
 Jiaxing is a small beautiful city near Shanghai and famous for its delicious food **Zongzi**. Jiaxing's greenery is very good and it also has many bridges， because its inner city is surrounded by rivers shown in the running route map.
 Jiaxing is quite important in modern history, you can see both ancient city wall, ancient street and church. We even saw a building with eastern and western style. Obviously, people living in Jiaxing in early 1900 had begun to come contact with western culture.
