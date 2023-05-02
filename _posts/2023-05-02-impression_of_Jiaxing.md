@@ -2,7 +2,7 @@
 layout: post
 title: "Impression of Jiaxing"
 date:   2023-05-03
-tags: [life, travel-note]
+tags: [life]
 comments: true
 author: GingerNg
 ---
