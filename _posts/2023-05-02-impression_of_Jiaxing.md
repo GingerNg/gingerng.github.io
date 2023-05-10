@@ -9,21 +9,21 @@ author: GingerNg
 
 ### [Xitang](https://en.wikipedia.org/wiki/Xitang)
 ![](https://s2.loli.net/2023/05/02/htFewEzur1GBVAO.png)
-We started our Labor Day journey on May 1st morning. Xintang is located in Jiashan country which is belong to Jiaxing. It is a famous water ancient town in China. We just walked around the town stepping on stone road and bridge and seeing a lot of awning boats.
+We started our Labour Day journey in the morning of May 1st. Xintang is located in Jiashan country which belongs to Jiaxing. It is a famous ancient riverside town in China. We just walked around the town along the stone-paved roads and bridges which overlooked many boats with awnings.
 ![awning boat](https://s2.loli.net/2023/05/02/C3WLiaex6lApDVO.png)
-In the town, we visited Xiyuan a small viewpoint, in which we firstly know [South Society](https://en.wikipedia.org/wiki/South_Society). We ate lunch there and then gone to Jiaxing.
+In the town, we visited Xiyuan a small viewpoint, which is where many of the first members of the [South Society](https://en.wikipedia.org/wiki/South_Society) came from. We ate lunch there and then went to Jiaxing.
 ![](https://s2.loli.net/2023/05/02/gHG5tLcluSv2OD3.png)
-- water spinach
-- snail
-- shrimp
+- garlic water spinach
+- Snails cooked in a mildly spicy soy-sauce broth
+- Boiled river prawns in salt water
 - mussel
 
 ### [Jiaxing Catholic Church](https://en.wikipedia.org/wiki/Jiaxing_Catholic_Church)
-Jiaxing Catholic Church is quite small but exquisite with lawn around it. It's a pity that we couldn't enter the church to visit.
+Jiaxing Catholic Church is quite small but exquisite with a lawn around it. It's a pity that we couldn't enter the church to visit.
 ![](https://s2.loli.net/2023/05/02/uCaZQxosrw1IO45.png)
 
 ![](https://s2.loli.net/2023/05/02/owruSYnNfmVEetI.png)
-In the late afternoon and evening, we visited the Yuehe History Block. There are bar street, flower shops and so on.
+In the late afternoon and evening, we visited the Yuehe History Block. There‘s a bar street, flower shops and so on.
 ![](https://s2.loli.net/2023/05/02/sfRw4z6Yiu3kxlH.png)
 
 ### Running in Jiaxing
