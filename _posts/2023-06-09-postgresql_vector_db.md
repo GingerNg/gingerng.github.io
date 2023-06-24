@@ -64,8 +64,7 @@ List all databases in PostgreSQL, meanwhile, show the owner, encoding, collate(æ
 ### sql-examples
 
 Create a table with vector type in order to use pgvector extension
-```
-```
+
 ##### sql-example-1
 - Create a vector column with 3 dimensions
 ```
