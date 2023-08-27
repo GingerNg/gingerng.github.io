@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "chat my blog"
-date:   2023-08-09
+date:   2023-08-26
 tags: [tech]
 comments: true
 author: GingerNg
@@ -10,10 +10,10 @@ author: GingerNg
 This is a simple implementation of chat with my blog based on chromadb, cohere[1] and gradio.
 
 #### Steps
-- 1. collect & clean data, split texts into chunks
-- 2. chunks embedding by cohere api, and save into chromadb
-- 3. question embedding and recall chunks from chromadb
-- 4. generate answer by feed question and recalled chunaks into cohere apis
+- [1] collect & clean data, split texts into chunks
+- [2] chunks embedding by cohere api, and save into chromadb
+- [3] question embedding and recall chunks from chromadb
+- [4] generate answer by feed question and recalled chunaks into cohere apis
 
 #### example of cohere apis
 Cohere embedding api can be easily intergated into chromadb:
