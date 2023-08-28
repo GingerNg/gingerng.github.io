@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Multiple choice for entity match"
-date:   2023-08-27
+date:   2023-08-28
 tags: [tech]
 comments: true
 author: GingerNg
 ---
 In my [previous post about introduction of entity matching](https://blog.morethan.eu.org/entity_match/), tranditional entity matching process consists of data-processing, schema matching, blocking, record pair comparison and classification. Frequently, the process of pairwise comparison and classification is combined into a single **comparison** step in modeling.
+
 Assuming, two data sources S and T will be merged.
 The blocking process will reduce amount of computation by exclude impossible candidate entities. Assuming that, there will be N candidate entites for every entity of S. Even N is much smaller than |T|, for every entity from S, classification model will does N times inference for N candidate entities from T.
 
