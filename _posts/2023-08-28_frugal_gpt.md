@@ -32,6 +32,6 @@ The paper briefly introduced a specialized way to address the issue:
 
 This method inspires me that: **is it possible to train a model that works both scoring function and router?**
 
-
+##### references
 - [1] [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance--2023](https://arxiv.org/pdf/2305.05176.pdf)
 - [2] [FrugalGPT: A Game Changer in AI for Small Businesses](https://medium.com/@ronnyh/frugalgpt-a-game-changer-in-ai-for-small-businesses-d8d385cb13d)

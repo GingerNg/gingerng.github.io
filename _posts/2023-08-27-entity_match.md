@@ -45,9 +45,7 @@ An overview of the most popular public datasets has been listed below:
 ![ public datasets](https://github.com/GingerNg/gingerng.github.io/blob/master/images/public%20entity%20match%20dataset.png?raw=true)
 
 
-
-
-
+##### references
 
 - [1] [Entity Matching : From Traditional Techniques to Deep Learning Solutions](https://www.invivoo.com/en/entity-matching-traditional-techniques-deep-learning-solutions/)
 - [2] [Neural Networks for Entity Matching: A Survey](https://arxiv.org/abs/2010.11075)
