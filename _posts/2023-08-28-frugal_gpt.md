@@ -35,3 +35,4 @@ This method inspires me that: **is it possible to train a model that works both 
 ##### references
 - [1] [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance--2023](https://arxiv.org/pdf/2305.05176.pdf)
 - [2] [FrugalGPT: A Game Changer in AI for Small Businesses](https://medium.com/@ronnyh/frugalgpt-a-game-changer-in-ai-for-small-businesses-d8d385cb13d)
+- [3] [code of FrugalGPT](https://github.com/stanford-futuredata/FrugalGPT)
