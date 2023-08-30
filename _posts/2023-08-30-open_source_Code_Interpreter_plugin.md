@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source ChatGPT Code Interpreter Plugin"
-date:   2023-08-
+date:   2023-08-30
 tags: [tech]
 comments: true
 author: GingerNg
