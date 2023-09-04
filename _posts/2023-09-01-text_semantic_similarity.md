@@ -66,5 +66,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 cosine_similarity(embedding_1, embedding_2)
 ```
 
+##### references
 - [1][sentence_transformers-utils](https://huggingface.co/tasks/sentence-similarity)
 - [2][Why cosine is the most used semantic similarity](https://poe.com/s/E2HKIvYrjNf9eGsDhrqG)
