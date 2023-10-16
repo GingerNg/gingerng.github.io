@@ -6,6 +6,7 @@ tags: [tech]
 comments: true
 author: GingerNg
 ---
+
 In my [previous blog](https://blog.morethan.eu.org/text_semantic_similarity/), we introduced the semantic similarity of text about cosine distance. However, it's only about how to measure the similarity of vectors. The step of how to get the embedding of text is more important.
 
 Transformer has been the mainstream NN structure in DL field, and also has produced  many good pretrained embedding models such as M3E[4], text2vec-large-chinese[5] and so on. We can use these pretrained models directly for common tasks but domain tasks. It's necessary to finetune modele on domain datasets.
