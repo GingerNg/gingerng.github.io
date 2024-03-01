@@ -34,3 +34,4 @@ GPT_CodeInterpreter is a python code interpreter implemented using OpenAI API ke
 - [3][PlotAI](https://github.com/mljar/plotai)
 - [4][GPT_CodeInterpreter](https://github.com/boyueluzhipeng/GPT_CodeInterpreter)
 - [5][function-calling-and-other-api-updates](https://openai.com/blog/function-calling-and-other-api-updates)
+- [6][OpenAI's Code Interpreter in your terminal, running locally](https://github.com/KillianLucas/open-interpreter)

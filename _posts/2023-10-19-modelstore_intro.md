@@ -28,6 +28,7 @@ Commerical MLOps Saas such as Neptune[2] or Wandb[4] have built-in model registr
 Could storage is used as as model registry in Monzo’s machine learning stack[6]:
 ![Monzo’s machine learning stack](https://images.ctfassets.net/ro61k101ee59/5PFHY5F9SzWGOSuc2zjMgM/d7af54b185d9a05d56acb498fd6c6df0/Screenshot_2022-04-04_at_10.09.56.png?w=656&q=90)
 
+##### references
 - [1][aws-sagemaker-mlops](https://aws.amazon.com/cn/sagemaker/mlops/)
 - [2][ML Model Registry: The Ultimate Guide](https://neptune.ai/blog/ml-model-registry)
 - [3][modelstore](https://github.com/operatorai/modelstore)
