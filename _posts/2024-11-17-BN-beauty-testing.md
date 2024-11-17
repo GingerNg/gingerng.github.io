@@ -6,6 +6,6 @@ tags: [tech, test, book reading]
 comments: true
 author: GingerNg
 ---
-![alt text](image.png)
+![alt text](https://img1.doubanio.com/view/subject/l/public/s34876908.jpg)
 Notes on 《The Beauty of modern software testing technologies》
 https://note.youdao.com/s/TMBxS9Qs
